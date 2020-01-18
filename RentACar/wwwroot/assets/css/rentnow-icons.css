@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'rentnow';
+    src:  url('../fonts/rentnow98fa.eot?3p0q20');
+    src:  url('../fonts/rentnow98fa.eot?3p0q20#iefix') format('embedded-opentype'),
+      url('../fonts/rentnow98fa.ttf?3p0q20') format('truetype'),
+      url('../fonts/rentnow98fa.woff?3p0q20') format('woff'),
+      url('../fonts/rentnow98fa.svg?3p0q20#rentnow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="rni-"], [class*=" rni-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'rentnow' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .rni-car-type-convertible:before {
+    content: "\e900";
+  }
+  .rni-car-type-coupe:before {
+    content: "\e901";
+  }
+  .rni-car-type-hatchback:before {
+    content: "\e902";
+  }
+  .rni-car-type-limousine:before {
+    content: "\e903";
+  }
+  .rni-car-type-minivan:before {
+    content: "\e904";
+  }
+  .rni-car-type-pickup:before {
+    content: "\e905";
+  }
+  .rni-car-type-roadster:before {
+    content: "\e906";
+  }
+  .rni-car-type-sedan:before {
+    content: "\e907";
+  }
+  .rni-car-type-statio-wagon:before {
+    content: "\e908";
+  }
+  .rni-car-type-van:before {
+    content: "\e909";
+  }
+  .rni-car-door:before {
+    content: "\e90a";
+  }
+  .rni-car-gear:before {
+    content: "\e90b";
+  }
+  .rni-car-seat:before {
+    content: "\e90c";
+  }
+  .rni-petrol-station:before {
+    content: "\e90d";
+  }
+  .rni-suitcase:before {
+    content: "\e90e";
+  }
+  
